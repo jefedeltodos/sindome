@@ -1,0 +1,2 @@
+# *.tin files can contain passwords do not keep in git
+*.tin
